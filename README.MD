@@ -19,7 +19,7 @@ This page was coded using simple HTML and CSS. It runs on all browsers and is a 
 links to github pages:
 git hub:  https://github.com/kipronorogers/lontelandingpage
 
-gh-pages site:     
+gh-pages site: https://kipronorogers.github.io/lontelandingpage/ 
 
 copyrights and license information:
 
